@@ -29,11 +29,19 @@ header_menu: true
 
 ----
 
-# Apoio
 
 {{< rawhtml >}}
-<div style="display: flex; flex-direction: flex-start;">
-    <img src="/logo/namir.jpg" width="30%" style="">
-    <img src="/logo/ufba.png" width="50%" style="">
+<div style="display: flex; justify-content: space-between;">
+    <div style="width: 40%">
+        <h2>Apoio</h2>
+        <div style="display: flex; justify-content: space-between;">
+        <img src="/logo/namir.jpg" width="40%" style="">
+        <img src="/logo/ufba.png" width="60%" style="">
+        </div>
+    </div>
+    <div style="width: 50%;">
+        <h2>Organização</h2>
+        <p>Comissão de Trabalho e Políticas Sociais do NAMIR/UFBA</p>
+    </div>
 </div>
 {{< /rawhtml >}}
