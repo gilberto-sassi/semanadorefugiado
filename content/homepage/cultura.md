@@ -36,4 +36,4 @@ Empresário e discente da Faculdade de Direito da UFBa.
 <p style="clear: both;"></p>
 {{< /rawhtml >}}
 
-**Mediadores:** Roberto -- voluntário do NAMIR/UFBA e docente do Instituto de Matemática e Estatística da UFBA.
+**Mediadores:** Roberto Sant'Anna Sacramento -- voluntário do NAMIR/UFBA e docente do Instituto de Matemática e Estatística da UFBA, e Yaimar Montoya -- voluntária do NAMIR/UFBA e discente da Faculdade de Educação da UFBA.

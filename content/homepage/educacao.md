@@ -51,4 +51,4 @@ Empresário e discente da Faculdade de Direito da UFBA.
 <p style="clear: both;"></p>
 {{< /rawhtml >}}
 
-**Mediadores:** Henrique da Mata -- voluntário do NAMIR/UFBA e diretor da Faculdade de Economia da UFBA, e Daniela Araújo -- voluntária do NAMIR/UFBA e doutoranda do Instituto Geociências da UFBA.
+**Mediadores:** Henrique da Mata -- voluntário do NAMIR/UFBA e diretor da Faculdade de Economia da UFBA, e Daniela Araújo -- voluntária do NAMIR/UFBA e discente do Instituto Geociências da UFBA.
