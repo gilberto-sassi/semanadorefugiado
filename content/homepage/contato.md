@@ -31,7 +31,7 @@ header_menu: true
 
 
 {{< rawhtml >}}
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
     <div style="width: 40%">
         <h2>Apoio</h2>
         <div style="display: flex; justify-content: space-between;">
