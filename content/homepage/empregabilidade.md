@@ -20,6 +20,13 @@ Mestrando do Programa de Pós-Graduação em Direito - Mestrado e Doutorado Acad
 {{< /rawhtml >}}
 Graduada em Administração pela Faculdade Ruy Barbosa (1996), especialista em Finanças Empresariais pela FGV (2000), mestre em Administração Estratégica pela Universidade Salvador (2003) e doutora em Administração pela Universidade Federal da Bahia (2012). É professora adjunta da Universidade do Estado da Bahia (UNEB) e da Universidade Federal da Bahia (UFBA). Atualmente coordena a Unidade Acadêmica de Educação a Distância da UNEB. Como pesquisadora integra a equipe do projeto denominado Qualidade do Ambiente Urbano de Salvador - QUALISalvador, que tem como objeto de estudo a realidade urbano ambiental de Salvador.
 
+##### Carolina Menezes
+
+{{< rawhtml >}}
+<img src="/fotos/carolina-smaller.jpg" width="25%" style="float: left; padding: 20px; border-radius: 1000px;">
+{{< /rawhtml >}}
+
+Mestra e Bacharela em Administração (UFBA), Especialista em Marketing Digital e Analytics (UNOPAR), Coordenadora do Núcleo de Estudos em Ecossistemas de Empreendedorismo e Inovação do Conselho Regional de Administração da Bahia e trabalha no Núcleo de Design Educacional do Ensino a Distância da UNEB. Proprietária e consultora empresarial da Sinkroni Consultoria e do Estúdio K.Professora universitária e mentora para novos negócios
 
 {{< rawhtml >}}
 <span style="clear: both;"></span>
