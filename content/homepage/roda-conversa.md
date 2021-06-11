@@ -25,7 +25,7 @@ Jornalista e fotógrafa, formada na _Universidade Central de Venezuela_.  Desde 
 {{< rawhtml >}}
 <img src="/fotos/vladimir-smaller.jpg" width="25%" style="float: left; padding: 20px; border-radius: 10000px;">
 {{< /rawhtml >}}
-Mestrando em Relações Internacionais pela _Universidade Federal ABC_, São Paulo eraduado em Relações Internacionais pela _Universidade da Integração Internacional da Lusofonia Afro-Brasileira_ (UNILAB). Além disso, Vladimir é Bacharel Interdisciplinar em Humanidade pela UNILAB, Presidente de Fórum dos Guineenses e Membro de ASEA. 
+Mestrando em Relações Internacionais pela _Universidade Federal ABC_, graduado em Relações Internacionais pela _Universidade da Integração Internacional da Lusofonia Afro-Brasileira_ (UNILAB). Além disso, Vladimir é Bacharel Interdisciplinar em Humanidade pela UNILAB, Presidente de Fórum dos Guineenses e Membro de ASEA. 
 
 ##### Jean Katumba
 
