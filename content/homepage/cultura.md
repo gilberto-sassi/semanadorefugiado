@@ -31,6 +31,13 @@ Aos seis anos de idade iniciou os estudos com o professor Narciso Pichardo, apre
 {{< /rawhtml >}}
 Artista da dança, pisciano e aprendiz de poeta. É criador do solo _Demolições - La Petite Mort_ (2015), com direção de Asier Zabaleta. Atuou como intérprete nos espetáculos _Corpo, Carga, Calma, Alma_, de Ben J. Riepe (Alemanha), e _Intempestivamente_, de Adam Kinner (Canadá). Integrou a Deslimites Mediações Artísticas, criou o solo _Burua Itzali_, em residência artística com Asier Zabaleta e Cia. Ertza, em Dantzagunea, País Basco – Espanha. Dirigiu os espetáculos _Kilezuuummmm_ e _Processo Dilatado_ e é coautor do livro-objeto coreográfico _Pequena Coleção de Insignificâncias_.
 
+##### Willians Santos
+
+{{< rawhtml >}}
+<img src="/fotos/willians-smaller.jpg" width="25%" style="float: left; padding: 20px; border-radius: 200px;">
+{{< /rawhtml >}}
+Doutorando em ciências sociais pela _Universidade Estadual de Campinas_ (UNICAMP) e há 12 anos desenvolve pesquisas nas temáticas da imigração, refúgio, racismo e arte de imigrantes e refugiados no Brasil. Tem contribuições sobre esses assuntos em jornais e revistas nacionais como _Le Monde Diplomatique_ e _Hits Perdidos_, entre outros. É, também, ator com pesquisas em teatro e dança afro-brasileira. E é músico com investigações práticas sobre o ritmo do afoxé e das musicalidades africanas se apresentando como _DJ Will da Leste_. Atualmente, é professor de sociologia do Estado de São Paulo e integrante da rede _Fronteiras Cruzadas_. 
+
 ##### Anas Al smman
 
 {{< rawhtml >}}

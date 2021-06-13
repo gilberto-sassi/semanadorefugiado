@@ -3,7 +3,7 @@ from PIL import Image
 from resizeimage import resizeimage
 
 fotos = ['lionel', 'penildon', 'sabine', 'mariela', 'carla', 'adriano', 'vladimir', 'aua', 'yasmin', 'javier',
-         'anas', 'jean', 'tania', 'carolina', 'tiago']
+         'anas', 'jean', 'tania', 'carolina', 'tiago', 'willians']
 
 for foto in fotos:
     with open(f'{foto}.jpg', 'r+b') as f:
