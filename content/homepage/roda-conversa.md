@@ -41,3 +41,7 @@ Jean Katumba nasceu na República Democrática do Congo e vive no Brasil desde 2
 {{< /rawhtml >}}
 
 **Mediadores:** Cristina Lizana -- voluntária do NAMIR/UFBA e docente do Instituto de Matemática e Estatística da UFBA, e Patrícia Lewis -- voluntária do NAMIR/UFBA e psicóloga.
+
+----
+
+{{< figure src="/icones/youtube.png" width="17.5%" caption="Acompanhe a **Sessão de Roda de Conversa** pelo YouTube (clique na figura acima)." alt="Link para acompanhar pelo YouTube." link="https://www.youtube.com/watch?v=o1cvPE4EwZE" target="_blank" >}}

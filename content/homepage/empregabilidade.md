@@ -34,3 +34,7 @@ Mestra e Bacharela em Administração (UFBA), Especialista em Marketing Digital 
 
 
 **Mediadores:** Juliana Sant'Anna  -- voluntária do NAMIR/UFBA e discente da Escola de Administração da UFBA, e Gilberto Pereira Sassi -- voluntário do NAMIR/UFBA e docente do Instituto de Matemática e Estatística da UFBA.
+
+----
+
+{{< figure src="/icones/youtube.png" width="17.5%" caption="Acompanhe a **Sessão de Empregabilidade** pelo YouTube (clique na figura acima)." alt="Link para acompanhar pelo YouTube." link="https://www.youtube.com/watch?v=pcr61EKHalM" target="_blank" >}}
